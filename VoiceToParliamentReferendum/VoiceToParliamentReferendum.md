@@ -35,7 +35,7 @@
    - [NIAA | Prime Minister proposes draft referendum question and constitutional amendments | 2022](https://voice.niaa.gov.au/news/prime-minister-proposes-draft-referendum-question-and-constitutional-amendments)
 
 1. [The Australian Constitution](https://www.aph.gov.au/constitution)
-   - [PDF version](file:///home/grantj/Downloads/2020_Australian_Constitution.pdf)
+   - [PDF version](https://www.aph.gov.au/-/media/05_About_Parliament/52_Sen/523_PPP/2020_Australian_Constitution.pdf?la=en&hash=393F8628BE9B934C59AED0A7FEA4F8970D65D17C)
      With Overview and Notes by the Australian Government Solicitor
 
 1. [Wikipedia - multiple authors | Uluru Statement from the Heart | 2018-2023](https://en.wikipedia.org/wiki/Uluru_Statement_from_the_Heart)
@@ -91,43 +91,43 @@
         * ENHANCING ABORIGINAL POLITICAL REPRESENTATION; INQUIRY INTO DEDICATED SEATS IN THE NEW SOUTH WALES PARLIAMENT; Report Number 18
         * November 1998
 
-  1. [Cape York Institute | Establishing an Indigenous Body in the Constitution | 2015](https://www.aph.gov.au/DocumentStore.ashx?id=39adf412-a9f2-4ba5-9b5b-15d69ae3fb8b&subId=301030&usg=AOvVaw3GuppQDKPKm6n1H2B6q30a)
-     - Cape York Institute; Cape York Partnership
-     - Joint Select Committee on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples; Submission 38 - Supplementary Submission
-     - Supplementary Submission to the Joint Select Committee; Establishing an Indigenous Body in the Constitution
-     - January 2015
-     - Section 4.5 The duty to consult in Canada
+   1. [Cape York Institute | Establishing an Indigenous Body in the Constitution | 2015](https://www.aph.gov.au/DocumentStore.ashx?id=39adf412-a9f2-4ba5-9b5b-15d69ae3fb8b&subId=301030&usg=AOvVaw3GuppQDKPKm6n1H2B6q30a)
+      - Cape York Institute; Cape York Partnership
+      - Joint Select Committee on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples; Submission 38 - Supplementary Submission
+      - Supplementary Submission to the Joint Select Committee; Establishing an Indigenous Body in the Constitution
+      - January 2015
+      - Section 4.5 The duty to consult in Canada
 
-  1. Brief history of Canada
-     - [The Canadian Encyclopedia - Zach Parrott & Michelle Filice | Indigenous Peoples in Canada | 2007-2023](https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people)
-     - [The Canadian Encyclopedia - William B. Henderson, Catherine Bell & Gretchen Albers | Rights of Indigenous Peoples in Canada | 2006-2019](https://www.thecanadianencyclopedia.ca/en/article/aboriginal-rights)
-     - [Crown-Indigenous Relations and Northern Affairs Canada | First Nations in Canada | 2011-2017](https://www.rcaanc-cirnac.gc.ca/eng/1307460755710/1536862806124)
+   1. Brief history of Canada
+      - [The Canadian Encyclopedia - Zach Parrott & Michelle Filice | Indigenous Peoples in Canada | 2007-2023](https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people)
+      - [The Canadian Encyclopedia - William B. Henderson, Catherine Bell & Gretchen Albers | Rights of Indigenous Peoples in Canada | 2006-2019](https://www.thecanadianencyclopedia.ca/en/article/aboriginal-rights)
+      - [Crown-Indigenous Relations and Northern Affairs Canada | First Nations in Canada | 2011-2017](https://www.rcaanc-cirnac.gc.ca/eng/1307460755710/1536862806124)
 
 
 1. New Zealand
 
-  1. [Cape York Institute | WHAT CAN WE LEARN FROM NEW ZEALAND for Constitutional Recognition of Indigenous Peoples in Australia? | 2014](https://www.aph.gov.au/DocumentStore.ashx?id=764fe11f-9cab-4a6f-8c9a-6f8d92bba731&subId=301030&usg=AOvVaw3BTAkeXryVYzGG71QUqwj8)
-     - Cape York Institute; Cape York Partnership
-     - Joint Select Committee on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples; Submission 38 - Supplementary Submission
-     - WHAT CAN WE LEARN FROM NEW ZEALAND for Constitutional Recognition of Indigenous Peoples in Australia?
-     - AUGUST 2014
+   1. [Cape York Institute | WHAT CAN WE LEARN FROM NEW ZEALAND for Constitutional Recognition of Indigenous Peoples in Australia? | 2014](https://www.aph.gov.au/DocumentStore.ashx?id=764fe11f-9cab-4a6f-8c9a-6f8d92bba731&subId=301030&usg=AOvVaw3BTAkeXryVYzGG71QUqwj8)
+      - Cape York Institute; Cape York Partnership
+      - Joint Select Committee on Constitutional Recognition of Aboriginal and Torres Strait Islander Peoples; Submission 38 - Supplementary Submission
+      - WHAT CAN WE LEARN FROM NEW ZEALAND for Constitutional Recognition of Indigenous Peoples in Australia?
+      - AUGUST 2014
 
-  1. Cape York Institute | Establishing an Indigenous Body in the Constitution | 2015
-     - Link above under *Canada* section
-     - Section 4.4 Insights from New Zealand
+   1. Cape York Institute | Establishing an Indigenous Body in the Constitution | 2015
+      - Link above under *Canada* section
+      - Section 4.4 Insights from New Zealand
 
-  1. [SBS News - Amanda Copp & Maani Truu | Australia can learn from NZ on Indigenous recognition, says Maori development minister | 2019](https://www.sbs.com.au/news/article/australia-can-learn-from-nz-on-indigenous-recognition-says-maori-development-minister/4nzi9krht)
+   1. [SBS News - Amanda Copp & Maani Truu | Australia can learn from NZ on Indigenous recognition, says Maori development minister | 2019](https://www.sbs.com.au/news/article/australia-can-learn-from-nz-on-indigenous-recognition-says-maori-development-minister/4nzi9krht)
 
-  1. Brief history of New Zealand
-     - [Encyclopedia of New Zealand - Te Ahukaramū Charles Royal | Māori | 2005](https://teara.govt.nz/en/maori)
-       * [Page 1. People and culture today](https://teara.govt.nz/en/maori/page-1)
-       * [Page 2. Pre-European society](https://teara.govt.nz/en/maori/page-2)
-       * [Page 3. The arrival of Europeans](https://teara.govt.nz/en/maori/page-3)
-       * [Page 4. Decline and revival](https://teara.govt.nz/en/maori/page-4)
-       * [Page 5. Urbanisation and renaissance](https://teara.govt.nz/en/maori/page-5)
-       * [Page 6. External links and sources](https://teara.govt.nz/en/maori/sources)
-     - [NZHistory | New Zealand's internal wars](https://nzhistory.govt.nz/war/new-zealands-internal-wars)
-     - [NZHistory | A history of New Zealand 1769-1914 | updated 2020](https://nzhistory.govt.nz/culture/history-of-new-zealand-1769-1914)
+   1. Brief history of New Zealand
+      - [Encyclopedia of New Zealand - Te Ahukaramū Charles Royal | Māori | 2005](https://teara.govt.nz/en/maori)
+        * [Page 1. People and culture today](https://teara.govt.nz/en/maori/page-1)
+        * [Page 2. Pre-European society](https://teara.govt.nz/en/maori/page-2)
+        * [Page 3. The arrival of Europeans](https://teara.govt.nz/en/maori/page-3)
+        * [Page 4. Decline and revival](https://teara.govt.nz/en/maori/page-4)
+        * [Page 5. Urbanisation and renaissance](https://teara.govt.nz/en/maori/page-5)
+        * [Page 6. External links and sources](https://teara.govt.nz/en/maori/sources)
+      - [NZHistory | New Zealand's internal wars](https://nzhistory.govt.nz/war/new-zealands-internal-wars)
+      - [NZHistory | A history of New Zealand 1769-1914 | updated 2020](https://nzhistory.govt.nz/culture/history-of-new-zealand-1769-1914)
 
 1. United States of America
    - [Harvard Project - Stephen Cornell and Joseph P. Kalt | Two Approaches to Economic Development on American Indian Reservations: One Works, the Other Doesn’t | 2006](https://www.honigman.com/media/site_files/111_imgimgjopna_2005-02_Approaches.pdf)
