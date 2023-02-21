@@ -76,6 +76,74 @@
 ## Possible solutions
 
 1. [Alison Vivian et al. | Indigneous Self-Government in the Australian Federation | 2017](http://www.ilc.unsw.edu.au/sites/ilc.unsw.edu.au/files/AILR_20_Vivian_et_al.pdf)
+   - Research over a 30-year period by the Harvard Project on American
+     Indian Economic Development (‘Harvard Project’) finds that the defining
+     characteristic common to thriving North American Native nations is collective
+     self-determination, manifest in Indigenous communities or nations having
+     decision-making control over their internal affairs
+   - Indigenous peoples do not conceive of themselves as mere stakeholders or
+     minority groups. Instead they expect to be acknowledged and respected as
+     separate and distinct polities within the boundaries of the nation-state.
+   - Despite cumulative
+     policies of dispossession, assimilation, marginalisation and paternalism,
+     Indigenous peoples around the world have ‘retained a sense of their
+     distinctiveness as a political community’ and consider their ‘claim to a separate
+     autonomous status as all-pervasive and lying beneath nearly all their claims.’
+     Indigenous peoples throughout the world seek self-government to pursue their
+     own social, economic, cultural and political goals
+   - The many Aboriginal nations and communities with which we have worked
+     do not seek secession, nor do they seek to exercise general jurisdiction over non-
+     Indigenous people. In the Australian context, they are at once citizens of
+     Australia and citizens of their respective Indigenous nations or members of their
+     respective Indigenous communities. We have heard many people describe
+     themselves as ‘dual citizens’...
+   - ... we have frequently heard... the refrain that Indigenous peoples have never
+     ceded their sovereignty or right to self-determination.
+   - ... the problem of how states deal with ‘nations within’ is not a marginal issue: it is
+     one of the key issues, perhaps even the central issue, for states in the 21st
+     century.  Attempting to reconcile colonial myth with reality is always complicated for
+     colonial states
+   - ... scholars have
+     noted that some features of federalism also provide a promising framework for
+     accommodating the self-governing aspirations of Indigenous peoples.
+   - In Australia, are such features enough to accommodate Indigenous
+     governments as part of a 21st century Australian federation? There are signs...
+     that the answer is a qualified ‘yes’...
+   - Whether a federal system truly can accommodate such differences in origins is an open question.
+   - Still more lessons relevant to the inclusion of Indigenous governments in the
+     Australian federation can be drawn from developments in the status of local
+     government
+   - Our objective here is simply to observe that contemporary and evolving
+     understandings of lawful authority and of the nature of federation can provide
+     Indigenous peoples and the Australian state with a theoretical basis for
+     Indigenous governments to be ‘seen’ by the Australian State.
+   - ... the conversation must engage with the illegitimacy of a sole and
+     exclusive settler State sovereignty...  A genuine reframing necessarily envisions:
+     free and equal peoples on the same continent [who] can mutually recognise the
+     autonomy or sovereignty of each other in certain spheres and share jurisdictions in
+     others without incorporation or subordination.
+
+1. [The Honourable Wayne Martin AC: Chief Justice of Western Australia | Curtin University Annual Ethics Lecture: Bridging the Gap - Some Ethical Dilemmas | 2012](https://www.supremecourt.wa.gov.au/_files/Curtin_University_Annual_Ethics_Lecture_Martin_CJ_30_Aug_2012.pdf)
+   - We should not overlook the fact that Aboriginal people are also grossly
+     over-represented as victims of crime... Why is it so?
+     ... disadvantage and discrimination.
+   - ...why these problems have proven to be so intractable
+     despite decades of effort by people of good will... The
+     general approach has usually been for non-Aboriginal policy makers and
+     administrators to approach these issues as if they are their problem, to be
+     resolved by the non-Aboriginal policy makers. The reality is that these
+     are problems for the Aboriginal community concerned, and which can
+     only be effectively solved by that community. Once that proposition is
+     accepted, the proper role of non-Aboriginal policy makers and
+     administrators is to empower and resource Aboriginal communities to
+     derive their own solutions to these problems.
+   - A good start would be genuine collaboration with
+     Aboriginal people. They might not tell us what we want to hear and they
+     will not speak with one voice. But they can help us identify what needs
+     to be done...
+   - Progress is being made, and will continue to be made if people of good
+     will take a sensible and constructive approach to the empowerment of
+     Aboriginal people and the resolution of the ethical dilemmas...
 
 
 ## Lessons from other countries
