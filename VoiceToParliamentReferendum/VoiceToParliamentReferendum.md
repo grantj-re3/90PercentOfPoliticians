@@ -9,6 +9,8 @@
 
 1. [Australian Financial Review - Tom McIlroy | What is the Voice to parliament and would it (really) change anything? | 2022](https://www.afr.com/politics/federal/what-is-the-voice-to-parliament-and-would-it-really-change-anything-20221130-p5c2gd)
 
+1. [Australian Financial Review - Michael Pelly & Tom McIlroy | Answers to Dutton’s 15 questions on the Voice | 2023](https://www.afr.com/politics/federal/answers-to-dutton-s-15-questions-on-the-voice-20230210-p5cjh3)
+
 
 ## Documents of a more formal nature
 
@@ -17,6 +19,17 @@
 
 1. [Referendum Council - membership as given in Appendix A | Final Report of the Referendum Council | 2017](https://www.referendumcouncil.org.au/sites/default/files/report_attachments/Referendum_Council_Final_Report.pdf)
    - [Members of the Referendum Council](https://www.referendumcouncil.org.au/council.html)
+   - Engagement:
+     * "1.5 Discussion Paper ...  This paper was interpreted into 12 major First Nations languages"
+     * "2. FIRST NATIONS REGIONAL DIALOGUES AND NATIONAL CONSTITUTIONAL CONVENTION ...
+       The First Nations Regional Dialogues were convened in [12 locations] ...
+       The National Constitutional Convention was then held at Uluru."
+     * "2.1.1 Process ... The Dialogues engaged 1200 Aboriginal and Torres Strait Islander delegates ...
+       Delegates to each Regional Dialogue were selected according to the following criteria: 60% from
+       First Nations/traditional owner groups, 20% from community organisations and 20% involving key
+       individuals...
+       The integrity of the process is evidenced in the fact that the exhaustive deliberations and informed
+       participation of participants in the First Nations Regional Dialogues led to consensus at Uluru."
    - [Referendum Council web site](https://www.referendumcouncil.org.au/)
      * Final Report (link above)
      * [Get the facts](https://www.referendumcouncil.org.au/get-the-facts.html)
@@ -31,7 +44,10 @@
      * [First Nation Regional Dialogues](https://www.referendumcouncil.org.au/dialogues.html)
      * Etc.
 
-1. [National Indigenous Australians Agency (NIAA) | Aboriginal and Torres Strait Islander Voice | c.2022-2023](https://voice.niaa.gov.au/)
+1. [National Indigenous Australians Agency (NIAA) | Aboriginal and Torres Strait Islander Voice | c.2019-2023](https://voice.niaa.gov.au/)
+   - [Marcia Langton, Tom Calma, et al. - membership as given in Appendix A | Indigenous Voice Co-design Process Final Report | 2021](https://voice.niaa.gov.au/final-report)
+     * Also known as the Langton-Calma report or CL report
+     * [PDF version](https://voice.niaa.gov.au/sites/default/files/2021-12/indigenous-voice-co-design-process-final-report_1.pdf)
    - [NIAA | Prime Minister proposes draft referendum question and constitutional amendments | 2022](https://voice.niaa.gov.au/news/prime-minister-proposes-draft-referendum-question-and-constitutional-amendments)
 
 1. [The Australian Constitution](https://www.aph.gov.au/constitution)
@@ -66,6 +82,8 @@
    - [Integration, self-determination and self-management 1967 to mid 1990s](http://www.workingwithindigenousaustralians.info/content/History_6_Integration.html)
    - [Reconciliation 1991 to the present](http://www.workingwithindigenousaustralians.info/content/History_7_Reconciliation.html)
    - [Eddi Mabo](http://www.workingwithindigenousaustralians.info/content/History_11_C_Mabo.html)
+   - [Jack McPhee talks about Exemption Certificates c.1939-1941](http://www.workingwithindigenousaustralians.info/content/Resources_2_Readings_3.html#tabs-main-1)
+   - [Edward Eyre (famous explorer) explains why Aborigines attacked frontier settlers | 1845](http://www.workingwithindigenousaustralians.info/content/Resources_2_Readings_3.html#tabs-main-2)
    - [Video Clip: Paul Keating's Redfern 1992 Speech](http://www.workingwithindigenousaustralians.info/content/History_6_Integration.html#tabs-1)
    - [Video Clip: Stan Grant address at the 2015 IQ2 Debate: *Racism is Destroying the Australian Dream*](http://www.workingwithindigenousaustralians.info/content/History_7_Reconciliation.html#tabs-3)
    - [Practice Implications - Self-determination](http://www.workingwithindigenousaustralians.info/content/Practice_Implications_7_Self-Determination.html)
