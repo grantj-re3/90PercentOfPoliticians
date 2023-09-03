@@ -54,7 +54,7 @@ own references (which will reflect your own biases). That's life! 😮
    - The [VOICEfacts videos](https://www.unimelb.edu.au/voice/voicefacts/voice-facts-1st-series/voicefacts-videos)
      are short (often 30-40 second) answers to specific questions about the voice.
    - You can pick which of the 32 public VOICEfacts videos you want to watch, or you can use
-     [this](https://www.youtube.com/playlist?list=PLhOObpoQndRmwcXPvddSgZWKBt4ewtBJF) YouTube playlist to
+     [this YouTube playlist](https://www.youtube.com/playlist?list=PLhOObpoQndRmwcXPvddSgZWKBt4ewtBJF) to
      watch them all in sequence. I imagine you can watch the whole playlist in about 20 minutes on x1.5.
 
 1. [State Library of Victoria | Indigenous Voice to Parliament referendum: Arguments for and against | 2023](https://guides.slv.vic.gov.au/voice/forandagainst)
@@ -65,7 +65,7 @@ own references (which will reflect your own biases). That's life! 😮
 1. [Australian Broadcasting Corporation, ABC News, Dana Morse | The cases for and against an Aboriginal and Torres Strait Islander Voice | 2023](https://www.abc.net.au/news/2023-08-30/voice-to-parliament-yes-no-cases/102788518)
    - There is no method to speed up the (14 minute) first video clip on the page, i.e.
      "The Voice Referendum will be held on October 14. Here's everything you need to know before you vote".
-   - However, you can speed up the YouTube version [here](https://www.youtube.com/watch?v=RCnv3G0rDLo)
+   - However, you can speed up the [YouTube version](https://www.youtube.com/watch?v=RCnv3G0rDLo)
 
 1. [University of New South Wales | Ten questions about the Voice to Parliament - answered by the experts | 2023](https://www.unsw.edu.au/news/2023/06/ten-questions-about-the-voice-to-parliament---answered-by-the-ex)
    1.  Do Aboriginal and Torres Strait Islander people support the Voice?
