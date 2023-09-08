@@ -39,7 +39,7 @@ would include:
 Less reliable sources of information may include:
 - social media
 - radio and TV "personalities"
-- politians
+- politicians
 
 unless they are backing up their views with solid information or evidence, or they are experts in
 a related field.
