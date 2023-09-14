@@ -36,7 +36,7 @@ Good sources of information include:
   a great deal of detail
 
 
-### These details would only be worked through after Australians have voted... This is the wrong way around.
+### These details would only be worked through after Australians have voted... This is the wrong way around
 
 I feel there is some merit to this argument, however:
 
@@ -48,7 +48,7 @@ I feel there is some merit to this argument, however:
   constitution will remain constant (unless they are changed with another referendum).
 
 
-### You wouldn’t buy a house without inspecting it or a car without test driving it.
+### You wouldn’t buy a house without inspecting it or a car without test driving it
 
 In my view, this referendum is not the same as an individual buying a house or a car. I think this is more like a business, club
 or community group having a meeting to decide if it would be beneficial to the business or group to purchase a tractor or other
