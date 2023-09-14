@@ -81,3 +81,10 @@ I feel **this NO-argument is being too selective about where we apply equality a
 You might think that these events occurred a long time ago, so should be ignored now. However I feel
 that First Nation people are living with the consequences of this today.
 
+
+## References
+
+1. [Australian Electoral Commission | Your official YES/NO referendum pamphlet (PDF) | 2023](https://www.aec.gov.au/referendums/files/pamphlet/your-official-yes-no-referendum-pamphlet.pdf)
+
+1. [The Guardian; Lorena Allam, Josh Butler, Nick Evershed and Andy Ball | The no pamphlet: campaign’s voice to parliament referendum essay – annotated and factchecked | 2023](https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-no-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked)
+
