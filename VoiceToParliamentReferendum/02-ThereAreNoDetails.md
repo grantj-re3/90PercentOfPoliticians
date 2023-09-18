@@ -62,8 +62,8 @@ I feel this is about stakeholder consultation. It is about giving First Nations 
 
 Links about how stakeholder consultation improves outcomes are given below.
 
-- The OECD web page (reference 5) says "The 2021 Regulatory Policy Outlook... shares good regulatory practices that can help close the gaps".
-  The chapter 2 PDF is about Evidence-based policy making and stakeholder engagement in order to achieve this.
+- The OECD web page (reference 5) says "The 2021 Regulatory Policy Outlook... shares good regulatory practices that can help *close the gaps*".
+  The chapter 2 PDF is about Evidence-based policy making and *stakeholder engagement* in order to achieve this.
 - The Policy Consultation & the Importance of Stakeholders page (reference 6) has a section *Why Stakeholders Matter for Policy Making*.
   It says "without effective stakeholder engagement and consultation, it’s much harder and riskier to design and implement good policies".
 

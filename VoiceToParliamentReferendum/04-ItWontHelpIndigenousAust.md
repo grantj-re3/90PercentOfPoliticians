@@ -13,8 +13,8 @@
 
 ### It won’t help indigenous Australians
 
-This statement is speculation. I believe that we can "close the gap" for indigenous Australians if
-we want to. This probably requires several things to achieve success, such as:
+This statement is (negative) speculation. I believe that we can "close the gap" for indigenous
+Australians if we want to. This probably requires several things to achieve success, such as:
 
 - problem solving skills; the voice would contribute to this process
 - good communication between parties involved; the voice would contribute to this process
@@ -24,7 +24,8 @@ we want to. This probably requires several things to achieve success, such as:
 
 ### More bureaucracy is not the answer
 
-The federal and state governments are themselves a bureaucracy. Unfortunately, you cannot easily
+None of us love bureaucracy, however
+the federal and state governments are themselves a bureaucracy. Unfortunately, you cannot easily
 "talk" to the government (and they cannot easily "listen") unless there are processes and procedures
 in place for doing so. The voice would establish such a process.
 
