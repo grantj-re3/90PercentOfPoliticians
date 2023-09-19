@@ -1,8 +1,8 @@
 # My thoughts about "The case for voting No"
 
-The case for voting No is given in the official pamphlet. A link can be found at reference #1 below.
+The case for voting No is given in the official pamphlet. A link can be found at reference 1 below.
 
-Some fact checking has been carried out by The Guardian and you can find a link at reference #2 below.
+Some fact checking has been carried out by The Guardian and you can find a link at reference 2 below.
 
 I also have some views which you can read by clicking on the links immediately below.
 

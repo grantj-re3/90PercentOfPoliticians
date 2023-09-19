@@ -31,9 +31,23 @@ Given the limitations described above, I think there is a reasonable amount of d
 
 Good sources of information include:
 
-- Voice Principles (reference 4 below): This is a short and easy to read summary
-- Indigenous Voice Co-design Process Final Report (reference 3 below): This is a 272 page PDF report with
+- Voice Principles (reference 3 below): This is a short and easy to read summary
+  * The Voice will give independent advice to the Parliament and Government
+  * The Voice will be chosen by Aboriginal and Torres Strait Islander people based on the wishes of local communities
+  * The Voice will be representative of Aboriginal and Torres Strait Islander communities, gender balanced and include youth
+  * The Voice will be empowering, community-led, inclusive, respectful and culturally informed
+  * The Voice will be accountable and transparent
+  * The Voice will work alongside existing organisations and traditional structures
+  * The Voice will not have a program delivery function
+  * The Voice will not have a veto power
+- Indigenous Voice Co-design Process Final Report (reference 4 below): This is a 272 page PDF report with
   a great deal of detail
+- Voice Resources page (reference 5 below) includes:
+  * Constitutional amendment and Voice design principles
+  * Fact sheets
+  * Prime Minister’s announcements
+  * Advisory Groups
+  * Newsletters, reports and other resources
 
 
 ### These details would only be worked through after Australians have voted... This is the wrong way around
@@ -62,9 +76,9 @@ I feel this is about stakeholder consultation. It is about giving First Nations 
 
 Links about how stakeholder consultation improves outcomes are given below.
 
-- The OECD web page (reference 5) says "The 2021 Regulatory Policy Outlook... shares good regulatory practices that can help *close the gaps*".
+- The OECD web page (reference 6) says "The 2021 Regulatory Policy Outlook... shares good regulatory practices that can help *close the gaps*".
   The chapter 2 PDF is about Evidence-based policy making and *stakeholder engagement* in order to achieve this.
-- The Policy Consultation & the Importance of Stakeholders page (reference 6) has a section *Why Stakeholders Matter for Policy Making*.
+- The Policy Consultation & the Importance of Stakeholders page (reference 7) has a section *Why Stakeholders Matter for Policy Making*.
   It says "without effective stakeholder engagement and consultation, it’s much harder and riskier to design and implement good policies".
 
 
@@ -72,14 +86,16 @@ Links about how stakeholder consultation improves outcomes are given below.
 
 1. [Australian Electoral Commission | Your official YES/NO referendum pamphlet (PDF) | 2023](https://www.aec.gov.au/referendums/files/pamphlet/your-official-yes-no-referendum-pamphlet.pdf)
 
-1. [The Guardian; Lorena Allam, Josh Butler, Nick Evershed and Andy Ball | The no pamphlet: campaign’s voice to parliament referendum essay – annotated and factchecked | 2023](https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-no-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked)
+2. [The Guardian; Lorena Allam, Josh Butler, Nick Evershed and Andy Ball | The no pamphlet: campaign’s voice to parliament referendum essay – annotated and factchecked | 2023](https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-no-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked)
 
-1. [Marcia Langton, Tom Calma, et al. | Indigenous Voice Co-design Process Final Report | 2021](https://voice.gov.au/resources/indigenous-voice-co-design-process-final-report)
+3. [Australian Government | Voice Principles | 2023](https://voice.gov.au/about-voice/voice-principles)
 
-1. [NIAA, Australian Government | Voice Principles | 2023](https://voice.gov.au/about-voice/voice-principles)
+4. [Marcia Langton, Tom Calma, et al. | Indigenous Voice Co-design Process Final Report | 2021](https://voice.gov.au/resources/indigenous-voice-co-design-process-final-report)
 
-1. [Organisation for Economic Co-operation and Development | OECD Regulatory Policy Outlook 2021 | 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm)
+5. [Australian Government - Voice | Resources | 2023](https://voice.gov.au/resources)
+
+6. [Organisation for Economic Co-operation and Development | OECD Regulatory Policy Outlook 2021 | 2021](https://www.oecd.org/publications/oecd-regulatory-policy-outlook-2021-38b0fdb1-en.htm)
    - [Chapter 2 - Evidence-based policy making and stakeholder engagement (PDF)](https://www.oecd.org/gov/regulatory-policy/chapter-two-evidence-based-policy-making-and-stakeholder-engagement.pdf)
 
-1. [Simply Stakeholders; Allison Hendricks | Policy Consultation & the Importance of Stakeholders (web page) | 2023](https://simplystakeholders.com/policy-consultation-engagement/)
+7. [Simply Stakeholders; Allison Hendricks | Policy Consultation & the Importance of Stakeholders (web page) | 2023](https://simplystakeholders.com/policy-consultation-engagement/)
 

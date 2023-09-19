@@ -45,10 +45,19 @@
      * Etc.
 
 1. [National Indigenous Australians Agency (NIAA) | Aboriginal and Torres Strait Islander Voice | c.2019-2023](https://voice.niaa.gov.au/)
+   - [Australian Government | Voice Principles | 2023](https://voice.gov.au/about-voice/voice-principles)
+     * The Voice will give independent advice to the Parliament and Government
+     * The Voice will be chosen by Aboriginal and Torres Strait Islander people based on the wishes of local communities
+     * The Voice will be representative of Aboriginal and Torres Strait Islander communities, gender balanced and include youth
+     * The Voice will be empowering, community-led, inclusive, respectful and culturally informed
+     * The Voice will be accountable and transparent
+     * The Voice will work alongside existing organisations and traditional structures
+     * The Voice will not have a program delivery function
+     * The Voice will not have a veto power
    - [Marcia Langton, Tom Calma, et al. - membership as given in Appendix A | Indigenous Voice Co-design Process Final Report | 2021](https://voice.gov.au/resources/indigenous-voice-co-design-process-final-report)
      * Also known as the Langton-Calma report or CL report
      * [PDF version](https://voice.gov.au/sites/default/files/resource/download/indigenous-voice-co-design-process-final-report_1.pdf)
-   - [NIAA | Resources | 2023](https://voice.gov.au/resources)
+   - [Australian Government - Voice | Resources | 2023](https://voice.gov.au/resources)
      * Constitutional amendment and Voice design principles
      * Fact sheets
      * Prime Minister’s announcements
