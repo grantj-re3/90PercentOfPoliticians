@@ -45,13 +45,18 @@
      * Etc.
 
 1. [National Indigenous Australians Agency (NIAA) | Aboriginal and Torres Strait Islander Voice | c.2019-2023](https://voice.niaa.gov.au/)
-   - [Marcia Langton, Tom Calma, et al. - membership as given in Appendix A | Indigenous Voice Co-design Process Final Report | 2021](https://voice.niaa.gov.au/final-report)
+   - [Marcia Langton, Tom Calma, et al. - membership as given in Appendix A | Indigenous Voice Co-design Process Final Report | 2021](https://voice.gov.au/resources/indigenous-voice-co-design-process-final-report)
      * Also known as the Langton-Calma report or CL report
-     * [PDF version](https://voice.niaa.gov.au/sites/default/files/2021-12/indigenous-voice-co-design-process-final-report_1.pdf)
-   - [NIAA | Prime Minister proposes draft referendum question and constitutional amendments | 2022](https://voice.niaa.gov.au/news/prime-minister-proposes-draft-referendum-question-and-constitutional-amendments)
+     * [PDF version](https://voice.gov.au/sites/default/files/resource/download/indigenous-voice-co-design-process-final-report_1.pdf)
+   - [NIAA | Resources | 2023](https://voice.gov.au/resources)
+     * Constitutional amendment and Voice design principles
+     * Fact sheets
+     * Prime Minister’s announcements
+     * Advisory Groups
+     * Newsletters, reports and other resources
 
 1. [The Australian Constitution](https://www.aph.gov.au/constitution)
-   - [PDF version](https://www.aph.gov.au/-/media/05_About_Parliament/52_Sen/523_PPP/2020_Australian_Constitution.pdf?la=en&hash=393F8628BE9B934C59AED0A7FEA4F8970D65D17C)
+   - [PDF version](https://www.aph.gov.au/-/media/05_About_Parliament/52_Sen/523_PPP/2023_Australian_Constitution.pdf)
      With Overview and Notes by the Australian Government Solicitor
 
 1. [Wikipedia - multiple authors | Uluru Statement from the Heart | 2018-2023](https://en.wikipedia.org/wiki/Uluru_Statement_from_the_Heart)
