@@ -61,6 +61,8 @@ I feel there is some merit to this argument, however:
 - The details will almost certainly change over the years and decades whereas the high level principles in the
   constitution will remain constant (unless they are changed with another referendum).
 
+A short video about *Why will the detail only be worked out after the referendum?* can be found at reference 8.
+
 
 ### You wouldn’t buy a house without inspecting it or a car without test driving it
 
@@ -98,4 +100,6 @@ Links about how stakeholder consultation improves outcomes are given below.
    - [Chapter 2 - Evidence-based policy making and stakeholder engagement (PDF)](https://www.oecd.org/gov/regulatory-policy/chapter-two-evidence-based-policy-making-and-stakeholder-engagement.pdf)
 
 7. [Simply Stakeholders; Allison Hendricks | Policy Consultation & the Importance of Stakeholders (web page) | 2023](https://simplystakeholders.com/policy-consultation-engagement/)
+
+8. [University of Melbourne | Why will the detail only be worked out after the referendum? | 2023](https://www.youtube.com/watch?v=TQ7qdTXe0Ok&list=PLhOObpoQndRmwcXPvddSgZWKBt4ewtBJF&index=47)
 
