@@ -59,8 +59,10 @@ ignore it when it doesn't suit you.
 When the Britsh arrived in Australia, they already had a justice system in place and an understanding of rights
 as given in the Magna Carta. The Magna Carta included things like:
 
-- no person shall be deprived of life, liberty, or property, without due process of law
-- a method to handle lands unlawfully taken from the Welsh by the English
+- no free man shall be seized, imprisoned, dispossessed, outlawed, exiled or ruined in any way, nor in any way
+  proceeded against, except by the lawful judgement of his peers and the law of the land (reference 3)
+- to no one will we deny or delay right or justice (reference 3)
+- a method to handle lands unlawfully taken from the Welsh by the English (reference 4)
 
 and yet:
 
@@ -87,4 +89,8 @@ that First Nation people are living with the consequences of this today.
 1. [Australian Electoral Commission | Your official YES/NO referendum pamphlet (PDF) | 2023](https://www.aec.gov.au/referendums/files/pamphlet/your-official-yes-no-referendum-pamphlet.pdf)
 
 1. [The Guardian; Lorena Allam, Josh Butler, Nick Evershed and Andy Ball | The no pamphlet: campaign’s voice to parliament referendum essay – annotated and factchecked | 2023](https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-no-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked)
+
+1. [UK Parliament | The contents of Magna Carta | c.2015](https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartaclauses/)
+
+1. [Wikipedia | Magna Carta | c.2002](https://en.wikipedia.org/wiki/Magna_Carta)
 
