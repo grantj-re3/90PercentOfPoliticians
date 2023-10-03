@@ -78,6 +78,12 @@ I feel this is about stakeholder consultation. It is about giving First Nations 
 
 Links about how stakeholder consultation improves outcomes are given below.
 
+- The paper *Two Approaches to Economic Development on American Indian Reservations: One Works, the Other Doesn’t*
+  (reference 9) says "...a number of those nations have broken away from
+  the prevailing pattern of poverty. They have moved aggressively to take control of their futures and
+  rebuild their nations, rewriting constitutions, reshaping economies, and reinvigorating indigenous
+  community and culture. Today, they are creating sustainable, self-determined economies and
+  building societies that work".
 - The OECD web page (reference 6) says "The 2021 Regulatory Policy Outlook... shares good regulatory practices that can help *close the gaps*".
   The chapter 2 PDF is about Evidence-based policy making and *stakeholder engagement* in order to achieve this.
 - The Policy Consultation & the Importance of Stakeholders page (reference 7) has a section *Why Stakeholders Matter for Policy Making*.
@@ -102,4 +108,6 @@ Links about how stakeholder consultation improves outcomes are given below.
 7. [Simply Stakeholders; Allison Hendricks | Policy Consultation & the Importance of Stakeholders (web page) | 2023](https://simplystakeholders.com/policy-consultation-engagement/)
 
 8. [University of Melbourne | Why will the detail only be worked out after the referendum? | 2023](https://www.youtube.com/watch?v=TQ7qdTXe0Ok&list=PLhOObpoQndRmwcXPvddSgZWKBt4ewtBJF&index=47)
+
+9. [Harvard Project - Stephen Cornell and Joseph P. Kalt | Two Approaches to Economic Development on American Indian Reservations: One Works, the Other Doesn’t | 2006](https://www.honigman.com/media/site_files/111_imgimgjopna_2005-02_Approaches.pdf)
 
